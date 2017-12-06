@@ -15,6 +15,7 @@ public class BankAccountApp {
 
 		System.out.println(acc1.toString());
 		
+		
 		/*
 		System.out.println(acc1.toString());
 		BankAccount acc2 = new BankAccount("CheckingAccount");
